@@ -1,8 +1,8 @@
 # Progress
 
-✅ Sprint 0
+Sprint 0 ✅
 
-⬜ Sprint 1
+Sprint 1 ✅
 
 ⬜ Sprint 2
 
